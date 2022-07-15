@@ -4,7 +4,9 @@ Abusing autoElevate - DLL Proxying.<br>
 Feel free to write me personally on discord: <a href="https://discord.gg/MJjwryfX9B" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/invite/N52JqGb" height="30" width="40" /></a>
 
 <h2 style="font-size:7vw" align="left"><i>Screenshots:</i></h2>
-Youtube : https://www.youtube.com/watch?v=LfIbnVoyr5Q
+
+Youtube : https://youtu.be/LfIbnVoyr5Q? <br>
+[<img src="https://i.ytimg.com/vi/LfIbnVoyr5Q/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=LfIbnVoyr5Q)
 
 <h2 style="font-size:7vw" align="left"><i>Tested On:</i></h2>
 Windows 10 (<i>❕With UAC Setting to: <b>Default</b></i> ) </br>
